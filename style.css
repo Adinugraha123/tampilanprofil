@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.color {
+    background-color: yellow;
+    height: 400px;
+}
+
+.jumbotron {
+    padding: 4em;
+    background-color: rgb(150, 196, 237);
+    height: 400px;
+}
+.gear{
+    padding: 5em;
+    margin: 5em;
+}
