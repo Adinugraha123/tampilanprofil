@@ -3,17 +3,37 @@
     padding: 0;
 }
 
-.color {
-    background-color: yellow;
-    height: 400px;
-}
+
 
 .jumbotron {
-    padding: 4em;
+    padding-top: 2em;
     background-color: rgb(150, 196, 237);
     height: 400px;
+   
 }
-.gear{
-    padding: 5em;
-    margin: 5em;
+.navbar-border{
+    margin: 50px;
+}
+
+.navbar-border li {
+    display: flex;
+    background-color: rgb(230, 222, 222); 
+    list-style: none;
+    padding: 10px;
+    margin: 5px;
+    
+}
+
+
+
+.navbar-border a {
+    list-style: none;
+    display: flex;
+    text-decoration: none;    
+    margin: auto;
+    margin-right: 10px;
+    
+}
+.button {
+    margin: 12px;
 }
